@@ -66,7 +66,7 @@ section.opening-content {
     font-size: 27px;
     text-transform: uppercase;
     height: fit-content;
-    /* border-left: 12px solid #FFFFFF; */
+
     padding-left: 10px;
     position: relative;
 }
@@ -75,7 +75,7 @@ section.opening-content {
     content: '';
     display: block;
     width: 15px;
-    height: 163px;
+    height: 165px;
     position: absolute;
     background-color: var(--color-white);
     left: -15px;
@@ -221,6 +221,12 @@ li a:hover {
     margin: 100px auto;
     padding: 30px;
     display: flex;
+    flex-direction: column;
+}
+
+.contact-wrapper {
+    display: flex;
+    flex-direction: row;
 }
 
 .contact-left {
