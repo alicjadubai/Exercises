@@ -1,0 +1,10 @@
+@mixin wrapperFlex {
+    display: flex;
+    margin: 100px 0 50px 0;
+    justify-content: space-between;
+}
+
+@mixin smallerWrapper {
+    max-width: 1000px;
+    margin: 100px auto;
+}

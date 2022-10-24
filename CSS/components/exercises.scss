@@ -1,0 +1,36 @@
+@import "/CSS/general/mixims.scss";
+
+.exercises-container {
+    @include smallerWrapper;
+    background: map-get($map: $imgs, $key: background2);
+    padding: 2rem;
+}
+
+.exercise {
+    display: flex;
+    margin: 2rem 0;
+}
+
+.exercise-image {
+    position: relative;
+    width: fit-content;
+}
+
+.exercise-image {
+    img {
+        width: 358px;
+        height: 349px;
+        position: relative;
+    }
+}
+
+.exercise-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.stju23,
+.griffin24 {
+    flex-direction: row-reverse;
+}

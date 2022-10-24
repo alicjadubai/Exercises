@@ -1,0 +1,66 @@
+@import '/CSS/components/maps.scss';
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: map-get($fonts, fontSwiss);
+    font-size: 16px;
+}
+
+body {
+    a {
+        text-decoration: none;
+    }
+}
+
+.wrapper {
+    width: $widthContainer;
+}
+
+body {
+
+    P {
+        font-size: map-get($map: $fontSize, $key: size16);
+        font-size: 16px;
+        font-family: map-get($map: $fonts, $key: fontSwiss);
+    }
+}
+
+.button {
+
+    a {
+        text-decoration: none;
+        padding: 5px 15px;
+        border-radius: 15px;
+        background-color: map-get($map: $colors, $key: red);
+        color: map-get($map: $colors, $key: white);
+    }
+}
+
+section {
+    h1 {
+        display: flex;
+        flex-direction: row;
+        font-size: 60px;
+        text-align: center;
+        padding: 0 0 35px 0;
+
+        &:before {
+            content: "";
+            flex: 1 1;
+            border-bottom: 5px solid #000;
+            margin: auto;
+
+        }
+
+        &::after {
+            content: "";
+            flex: 1 1;
+            border-bottom: 5px solid #000;
+            margin: auto;
+        }
+    }
+}

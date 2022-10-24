@@ -1,0 +1,56 @@
+@use "sass:map";
+
+
+$widthContainer: 1350px;
+
+$fonts: (
+    fontBariol: "Bariol Regular",
+    fontOpenSans: "Swiss 721 BT",
+    fontOCR: "OCR-A BT",
+    fontSwiss: 'Swiss 721'
+
+);
+$fontSize: (
+    size50: 2.5rem,
+    size87:5rem,
+    size30:2.5rem,
+    size60: 3.75rem,
+    size16: 1rem,
+
+);
+$colors: (
+    white: #ffffff,
+    1:#8E8E8E,
+    2:#606060,
+    3:#535353,
+    4: #333333,
+    black: #000000,
+    red:#FF0000,
+    blue: #679fd6,
+
+);
+
+
+$imgs: (
+    background: url('/Assets/Artboard.png'),
+    flag: url('/Assets/Estonia.png'),
+    background2: url('/Assets/TLO1.png'),
+    email: url('/Assets/email-icon.png'),
+    phone: url('/Assets/image_processing20200712-25627-mzgklx.png'),
+    address: url('/Assets/207-2072722_address-symbol-png-download-date-time-venue-icon.png'),
+    grl23: url('/Assets/Group\ 8.png'),
+    stju23:url('/Assets/Group\ 9.png'),
+    defeur24:url('/Assets/Group\ 10.png'),
+    grimar24: url('/Assets/Group\ 11.png')
+);
+
+// $fontSize: (
+//     headerSmall: 30px,
+//     headerBig: 40px,
+//     nav:30px,
+//     heading: 30px,
+//     par:16px,
+//     events: 50px,
+//     contactName: 30px,
+//     contactInfo:32px,
+//     form: 22px)
