@@ -1,5 +1,5 @@
-@import "/CSS/general/mixims.scss";
-@import "/CSS/components/maps.scss";
+@import "../general/mixims.scss";
+@import "./maps.scss";
 
 .exercises-container {
     @include smallerWrapper;
