@@ -1,4 +1,4 @@
-4387
+4398
 85C:\CodersLab\Exercises - scss\node_modules\@parcel\packager-js\lib\CJSOutputFormat.js133110171291183564 0
 33C:\CodersLab\Exercises - scss\CSS133110298540375295 1
 77C:\CodersLab\Exercises - scss\node_modules\@parcel\workers\test\workerfarm.js133110171303180395 0
@@ -22,7 +22,7 @@
 73C:\CodersLab\Exercises - scss\node_modules\svgo\plugins\removeComments.js133110171302955554 0
 61C:\CodersLab\Exercises - scss\node_modules\tslib\package.json133110171294494491 0
 52C:\CodersLab\Exercises - scss\node_modules\is-number133110179978026189 1
-34C:\CodersLab\Exercises - scss\dist133110278208664094 1
+34C:\CodersLab\Exercises - scss\dist133111016526507082 1
 77C:\CodersLab\Exercises - scss\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133110171307849284 0
 61C:\CodersLab\Exercises - scss\node_modules\@parcel\fs\LICENSE133110171290399291 0
 87C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\features\css-line-clamp.js133110171309191531 0
@@ -51,7 +51,7 @@
 75C:\CodersLab\Exercises - scss\node_modules\@parcel\transformer-html\LICENSE133110171290277386 0
 87C:\CodersLab\Exercises - scss\node_modules\lmdb\node_modules\node-addon-api\common.gypi133110171291556794 0
 83C:\CodersLab\Exercises - scss\node_modules\yaml\browser\dist\PlainValue-b8036b75.js133110171300674309 0
-40C:\CodersLab\Exercises - scss\index.html133110273820063345 0
+40C:\CodersLab\Exercises - scss\index.html133110989541433376 0
 84C:\CodersLab\Exercises - scss\node_modules\@parcel\utils\src\generateBuildMetrics.js133110171299237399 0
 62C:\CodersLab\Exercises - scss\node_modules\css-tree\lib\syntax133110179946458614 1
 67C:\CodersLab\Exercises - scss\node_modules\to-regex-range\README.md133110171292523712 0
@@ -269,7 +269,7 @@
 68C:\CodersLab\Exercises - scss\node_modules\sass\types\exception.d.ts133110171305343167 0
 51C:\CodersLab\Exercises - scss\node_modules\domutils133110179958875010 1
 71C:\CodersLab\Exercises - scss\node_modules\@swc\helpers\src\_update.mjs133110171308625557 0
-59C:\CodersLab\Exercises - scss\CSS\components\exercises.scss133110262942989557 0
+59C:\CodersLab\Exercises - scss\CSS\components\exercises.scss133111016981612457 0
 85C:\CodersLab\Exercises - scss\node_modules\lightningcss\node\browserslistToTargets.js133110171291854178 0
 71C:\CodersLab\Exercises - scss\node_modules\sass\types\logger\index.d.ts133110171305860801 0
 93C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\features\css-overflow-overlay.js133110171309553432 0
@@ -359,6 +359,7 @@
 90C:\CodersLab\Exercises - scss\node_modules\csso\lib\restructure\prepare\processSelector.js133110171302714919 0
 68C:\CodersLab\Exercises - scss\node_modules\lmdb\dependencies\lz4\lib133110179987133651 1
 55C:\CodersLab\Exercises - scss\node_modules\lightningcss133110179980888850 1
+56C:\CodersLab\Exercises - scss\dist\Group 10.0c27c795.png133111016301443010 0
 73C:\CodersLab\Exercises - scss\node_modules\type-fest\ts41\snake-case.d.ts133110171301941036 0
 62C:\CodersLab\Exercises - scss\node_modules\lmdb\dict\dict2.txt133110171308801409 0
 93C:\CodersLab\Exercises - scss\node_modules\@swc\helpers\lib\_unsupported_iterable_to_array.js133110171306154611 0
@@ -1630,7 +1631,7 @@
 76C:\CodersLab\Exercises - scss\node_modules\@parcel\core\test\fixtures\parcel133110179747482717 1
 94C:\CodersLab\Exercises - scss\node_modules\@babel\helper-validator-identifier\lib\index.js.map133110171293875669 0
 69C:\CodersLab\Exercises - scss\node_modules\picomatch\lib\constants.js133110171291100940 0
-56C:\CodersLab\Exercises - scss\dist\Group 10.9b681347.png133110277742754371 0
+56C:\CodersLab\Exercises - scss\dist\Group 10.9b681347.png133110299607871749 0
 65C:\CodersLab\Exercises - scss\node_modules\picomatch\lib\parse.js133110171292869013 0
 69C:\CodersLab\Exercises - scss\node_modules\@parcel\graph\lib\index.js133110171296789134 0
 69C:\CodersLab\Exercises - scss\node_modules\picomatch\lib\picomatch.js133110171293491390 0
@@ -2264,7 +2265,7 @@
 72C:\CodersLab\Exercises - scss\node_modules\entities\lib\encode-trie.d.ts133110171300620741 0
 58C:\CodersLab\Exercises - scss\node_modules\@parcel\workers133110179821572289 1
 74C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\regions\SR.js133110171321642088 0
-58C:\CodersLab\Exercises - scss\dist\email-icon.d8f97382.png133110277742132470 0
+58C:\CodersLab\Exercises - scss\dist\email-icon.d8f97382.png133110299607216716 0
 70C:\CodersLab\Exercises - scss\node_modules\entities\lib\encode-trie.js133110171294724684 0
 72C:\CodersLab\Exercises - scss\node_modules\@parcel\workers\lib\Handle.js133110171297172506 0
 67C:\CodersLab\Exercises - scss\node_modules\entities\lib\encode.d.ts133110171300762765 0
@@ -2421,6 +2422,7 @@
 83C:\CodersLab\Exercises - scss\node_modules\css-tree\lib\syntax\node\SelectorList.js133110171307392265 0
 83C:\CodersLab\Exercises - scss\node_modules\csso\lib\restructure\3-disjoinRuleset.js133110171292685897 0
 86C:\CodersLab\Exercises - scss\node_modules\csso\lib\restructure\4-restructShorthand.js133110171293481387 0
+58C:\CodersLab\Exercises - scss\dist\email-icon.c1f01ea6.png133111016302175634 0
 82C:\CodersLab\Exercises - scss\node_modules\csso\lib\restructure\6-restructBlock.js133110171294156002 0
 81C:\CodersLab\Exercises - scss\node_modules\csso\lib\restructure\7-mergeRuleset.js133110171294616532 0
 94C:\CodersLab\Exercises - scss\node_modules\@parcel\transformer-react-refresh-wrap\package.json133110171295128407 0
@@ -2846,6 +2848,7 @@
 70C:\CodersLab\Exercises - scss\node_modules\@parcel\events\lib\index.js133110171294534500 0
 74C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\regions\SV.js133110171321830022 0
 79C:\CodersLab\Exercises - scss\node_modules\@parcel\transformer-css\package.json133110171292891080 0
+108C:\CodersLab\Exercises - scss\dist\207-2072722_address-symbol-png-download-date-time-venue-icon.560fbf26.png133111016301432805 0
 74C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\regions\TC.js133110171322042512 0
 74C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\regions\TH.js133110171322280371 0
 74C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\regions\TK.js133110171322310368 0
@@ -3075,7 +3078,7 @@
 88C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\features\document-policy.js133110171311093910 0
 98C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\features\document-scrollingelement.js133110171311103905 0
 93C:\CodersLab\Exercises - scss\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js133110171302139669 0
-56C:\CodersLab\Exercises - scss\dist\Group 12.61d57769.png133110277742132470 0
+56C:\CodersLab\Exercises - scss\dist\Group 12.61d57769.png133110299607216716 0
 85C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\features\documenthead.js133110171311113913 0
 94C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\features\dom-manip-convenience.js133110171311133909 0
 88C:\CodersLab\Exercises - scss\node_modules\caniuse-lite\data\features\insert-adjacent.js133110171314571513 0
@@ -3444,7 +3447,7 @@
 116C:\CodersLab\Exercises - scss\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased\package.json133110171306507535 0
 91C:\CodersLab\Exercises - scss\node_modules\@swc\helpers\src\_class_private_field_update.mjs133110171307331756 0
 90C:\CodersLab\Exercises - scss\node_modules\@swc\helpers\src\_class_private_method_init.mjs133110171307381763 0
-63C:\CodersLab\Exercises - scss\dist\Exercises - scss.3464ddca.js133110277742132470 0
+63C:\CodersLab\Exercises - scss\dist\Exercises - scss.3464ddca.js133111016301432805 0
 100C:\CodersLab\Exercises - scss\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.mjs133110171307462450 0
 64C:\CodersLab\Exercises - scss\node_modules\@parcel\cache\LICENSE133110171290399291 0
 100C:\CodersLab\Exercises - scss\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.mjs133110171307487032 0
@@ -4049,7 +4052,7 @@
 95C:\CodersLab\Exercises - scss\node_modules\@parcel\fs-search\fs-search.linux-arm-gnueabihf.node133110171298030695 0
 91C:\CodersLab\Exercises - scss\node_modules\@parcel\fs-search\fs-search.linux-arm64-gnu.node133110171300650861 0
 89C:\CodersLab\Exercises - scss\node_modules\@parcel\core\src\requests\ValidationRequest.js133110171308801409 0
-55C:\CodersLab\Exercises - scss\dist\Group 9.ed72d5f1.png133110277742142456 0
+55C:\CodersLab\Exercises - scss\dist\Group 9.ed72d5f1.png133110299607226702 0
 89C:\CodersLab\Exercises - scss\node_modules\@parcel\core\test\fixtures\application-targets133110179744011945 1
 67C:\CodersLab\Exercises - scss\node_modules\@babel\highlight\LICENSE133110171290202915 0
 90C:\CodersLab\Exercises - scss\node_modules\@parcel\fs-search\fs-search.win32-x64-msvc.node133110171303860734 0
@@ -4215,7 +4218,7 @@
 69C:\CodersLab\Exercises - scss\node_modules\@lezer\common\package.json133110171293842557 0
 66C:\CodersLab\Exercises - scss\node_modules\@lezer\common\README.md133110171294322896 0
 71C:\CodersLab\Exercises - scss\node_modules\@lezer\common\dist\index.cjs133110171291904172 0
-67C:\CodersLab\Exercises - scss\dist\Exercises - scss.3464ddca.js.map133110277742280925 0
+67C:\CodersLab\Exercises - scss\dist\Exercises - scss.3464ddca.js.map133111016301579612 0
 70C:\CodersLab\Exercises - scss\node_modules\@lezer\common\dist\index.js133110171293251672 0
 70C:\CodersLab\Exercises - scss\node_modules\@lezer\common\dist\mix.d.ts133110171295138417 0
 71C:\CodersLab\Exercises - scss\node_modules\@lezer\common\dist\tree.d.ts133110171295795686 0
@@ -4253,6 +4256,7 @@
 87C:\CodersLab\Exercises - scss\node_modules\@jridgewell\set-array\dist\set-array.mjs.map133110171292472973 0
 86C:\CodersLab\Exercises - scss\node_modules\@jridgewell\set-array\dist\set-array.umd.js133110171291018032 0
 90C:\CodersLab\Exercises - scss\node_modules\@jridgewell\set-array\dist\set-array.umd.js.map133110171293111120 0
+56C:\CodersLab\Exercises - scss\dist\Group 11.5dd8380c.png133111016301452998 0
 90C:\CodersLab\Exercises - scss\node_modules\@jridgewell\set-array\dist\types\set-array.d.ts133110171294771257 0
 74C:\CodersLab\Exercises - scss\node_modules\@jridgewell\resolve-uri\LICENSE133110171290126455 0
 91C:\CodersLab\Exercises - scss\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs.map133110171292493721 0
@@ -4348,23 +4352,31 @@
 52C:\CodersLab\Exercises - scss\node_modules\.bin\svgo133110171325568393 0
 56C:\CodersLab\Exercises - scss\node_modules\.bin\svgo.ps1133110171325568393 0
 58C:\CodersLab\Exercises - scss\node_modules\.bin\terser.cmd133110171325579434 0
-108C:\CodersLab\Exercises - scss\dist\207-2072722_address-symbol-png-download-date-time-venue-icon.0fb33e0a.png133110277742743831 0
-56C:\CodersLab\Exercises - scss\dist\Artboard.3bfab5c9.png133110277742830448 0
-55C:\CodersLab\Exercises - scss\dist\Estonia.d9f73a52.png133110277742733823 0
-56C:\CodersLab\Exercises - scss\dist\Group 11.dad17ca3.png133110277742152446 0
-55C:\CodersLab\Exercises - scss\dist\Group 8.f27d1612.png133110277742132470 0
-85C:\CodersLab\Exercises - scss\dist\image_processing20200712-25627-mzgklx.616d181a.png133110277742152446 0
-53C:\CodersLab\Exercises - scss\dist\index.f9a52ea2.css133110278208608772 0
-57C:\CodersLab\Exercises - scss\dist\index.f9a52ea2.css.map133110278208651797 0
-45C:\CodersLab\Exercises - scss\dist\index.html133110277742976617 0
-52C:\CodersLab\Exercises - scss\dist\TLO1.c1a6ee80.png133110277742201469 0
+108C:\CodersLab\Exercises - scss\dist\207-2072722_address-symbol-png-download-date-time-venue-icon.0fb33e0a.png133110299607861790 0
+56C:\CodersLab\Exercises - scss\dist\Artboard.3bfab5c9.png133111016302255812 0
+55C:\CodersLab\Exercises - scss\dist\Estonia.7c183a7a.png133111016301432805 0
+55C:\CodersLab\Exercises - scss\dist\Estonia.d9f73a52.png133110299607861790 0
+56C:\CodersLab\Exercises - scss\dist\Group 11.dad17ca3.png133110299607237604 0
+56C:\CodersLab\Exercises - scss\dist\Group 12.750965d6.png133111016302175634 0
+55C:\CodersLab\Exercises - scss\dist\Group 8.47223737.png133111016301452998 0
+55C:\CodersLab\Exercises - scss\dist\Group 8.f27d1612.png133110299607239443 0
+55C:\CodersLab\Exercises - scss\dist\Group 9.28cbac61.png133111016302175634 0
+51C:\CodersLab\Exercises - scss\Assets\Group 8@2x.png133108313654778148 0
+85C:\CodersLab\Exercises - scss\dist\image_processing20200712-25627-mzgklx.31cc170b.png133111016301432805 0
+85C:\CodersLab\Exercises - scss\dist\image_processing20200712-25627-mzgklx.616d181a.png133110299607216716 0
+53C:\CodersLab\Exercises - scss\dist\index.0ebeb588.css133111016526454921 0
+57C:\CodersLab\Exercises - scss\dist\index.0ebeb588.css.map133111016526497081 0
+53C:\CodersLab\Exercises - scss\dist\index.f9a52ea2.css133110301170888730 0
+57C:\CodersLab\Exercises - scss\dist\index.f9a52ea2.css.map133110301170888730 0
+45C:\CodersLab\Exercises - scss\dist\index.html133111016302396921 0
+52C:\CodersLab\Exercises - scss\dist\TLO1.c1a6ee80.png133111016301499371 0
 41C:\CodersLab\Exercises - scss\CSS\general133110298540375295 1
-44C:\CodersLab\Exercises - scss\CSS\style.scss133110299287279073 0
-52C:\CodersLab\Exercises - scss\CSS\general\basic.scss133110256666414069 0
+44C:\CodersLab\Exercises - scss\CSS\style.scss133110994125965586 0
+52C:\CodersLab\Exercises - scss\CSS\general\basic.scss133111011219424282 0
 52C:\CodersLab\Exercises - scss\CSS\general\reset.scss133110178440581882 0
-57C:\CodersLab\Exercises - scss\CSS\components\contact.scss133110297791567749 0
-56C:\CodersLab\Exercises - scss\CSS\components\events.scss133110278204476667 0
-56C:\CodersLab\Exercises - scss\CSS\components\header.scss133110243447058243 0
+57C:\CodersLab\Exercises - scss\CSS\components\contact.scss133111014389537767 0
+56C:\CodersLab\Exercises - scss\CSS\components\events.scss133110999301722499 0
+56C:\CodersLab\Exercises - scss\CSS\components\header.scss133110998561988368 0
 54C:\CodersLab\Exercises - scss\CSS\components\maps.scss133110275967548168 0
 104C:\CodersLab\Exercises - scss\Assets\207-2072722_address-symbol-png-download-date-time-venue-icon@2x.png133108313654134890 0
 49C:\CodersLab\Exercises - scss\Assets\Artboard.png133107548696137575 0
@@ -4380,7 +4392,6 @@
 52C:\CodersLab\Exercises - scss\Assets\Group 13@2x.png133108313656690911 0
 49C:\CodersLab\Exercises - scss\Assets\Group 14.png133108313655693196 0
 52C:\CodersLab\Exercises - scss\Assets\Group 14@2x.png133108313656047279 0
-51C:\CodersLab\Exercises - scss\Assets\Group 8@2x.png133108313654778148 0
 48C:\CodersLab\Exercises - scss\Assets\Group 9.png133108313655067998 0
 51C:\CodersLab\Exercises - scss\Assets\Group 9@2x.png133108313655396226 0
 78C:\CodersLab\Exercises - scss\Assets\image_processing20200712-25627-mzgklx.png133108313653269209 0
