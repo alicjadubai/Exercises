@@ -1,0 +1,79 @@
+@import "./maps.scss";
+@import "../general/mixims.scss";
+
+section.opening-content {
+    background: map-get($map: $imgs, $key: background);
+    max-width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.opening-content {
+    .wrapper {
+        @include wrapperFlex;
+    }
+}
+
+.opening-content-title {
+    color: map-get($colors, white);
+    // font-size: map-get($fontSize, size50);
+    font-size: 40px;
+    text-transform: uppercase;
+    height: fit-content;
+    padding-left: 10px;
+    position: relative;
+    font-family: map-get($fonts , $key: fontBariol);
+}
+
+.opening-content-title {
+    &:before {
+        content: '';
+        display: block;
+        width: 1rem;
+        height: 17rem;
+        position: absolute;
+        background-color: map-get($map: $colors, $key: white);
+        left: -1rem;
+        top: 0.3rem
+    }
+}
+
+.opening-content-title {
+    b {
+        // font-size: map-get($fontSize, size87);
+        font-size: 4.5rem;
+        font-weight: 900;
+        text-transform: uppercase;
+    }
+}
+
+nav.ex-nav {
+    align-self: flex-end;
+
+    // font-size: map-get($map: $fonrSize, $key: size30);
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+nav {
+
+    ul {
+        display: flex;
+        list-style: none;
+
+        li {
+            padding: 0 25px;
+            font-family: map-get($map: $fonts, $key: fontOCR);
+
+            a {
+                color: map-get($map: $colors, $key: white);
+
+                &:hover {
+                    color: map-get($map: $colors, $key: blue);
+                }
+            }
+        }
+
+    }
+}
